@@ -43,9 +43,10 @@ Company: -
 
 Fields_of_interests:
   [
+    "Machine Learning",
     "Web Development",
     "Data Science",
-    "Machine Learning",
+    "Natural Language Processing",
     "UI/UX"
   ]
 Technical_background:
