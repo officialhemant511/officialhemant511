@@ -13,10 +13,10 @@
 <a href="linkedin.com/in/hemant-bhatt-9999a2246/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+<a href="https://x.com/HemantB60317065?t=wnw6Xf1y--ENB7BSJuVEcg&s=09">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://leetcode.com/u/official_hemant51/">
   <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KJ34dO3Vp7rp1UHEo4eO8VAFNoHKLI9mrw&s"/>
 </a>
 <a href="https://www.instagram.com/official_hemant51/">
