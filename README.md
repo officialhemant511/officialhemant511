@@ -29,15 +29,17 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Hemant Bhatt
-located_in: Delhi
-current_job: Full Stack Developer
+Name: Hemant Bhatt
+Located_in: Delhi
+College: Graphic Era Hill University
+Course: Btech CSE
+Overall CGPA: 9.1/10
 Education:
   [
     "Self-Taught Developer and Problem solver",
     "Bachelor's in computer science Engineering",
   ]
-company: -
+Company: -
 
 Fields_of_interests:
   [
@@ -46,7 +48,7 @@ Fields_of_interests:
     "Machine Learning",
     "UI/UX"
   ]
-technical_background:
+Technical_background:
   [
     "Full Stack Developer"
     "Intern - Full stack Developer(AADEESHWARA)",
@@ -54,9 +56,9 @@ technical_background:
     "Intern - Web Developer(Bharat Internz)",
   ]
   
-currently_learning: ["ReactJS, Nodejs, Machine Learning and Natural Language Processing"]
+Currently_learning: ["ReactJS, Nodejs, Machine Learning and Natural Language Processing"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cricket", "Chess", "Comedy"]
+Hobbies: ["Gaming", "Cricket", "Chess", "Comedy"]
 ```
   
 ---  
