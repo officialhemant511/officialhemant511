@@ -51,13 +51,13 @@ Fields_of_interests:
   ]
 Technical_background:
   [
-    "Full Stack Developer"
+    "Data Engineer at Cognizant"
     "Intern - Full stack Developer(AADEESHWARA)",
     "Intern - Salesforce Platform developer",
     "Intern - Web Developer(Bharat Internz)",
   ]
   
-Currently_learning: ["ReactJS, Nodejs, Machine Learning and Natural Language Processing"]
+Currently_learning: ["Pyspark, Python, ReactJS, Nodejs, Machine Learning and Natural Language Processing"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 Hobbies: ["Gaming", "Cricket", "Chess", "Comedy"]
 ```
